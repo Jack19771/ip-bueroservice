@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://ip-bueroservice.de/</loc>
+        <lastmod>2026-04-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="de" href="https://ip-bueroservice.de/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://ip-bueroservice.de/pl/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://ip-bueroservice.de/"/>
+    </url>
+    <url>
+        <loc>https://ip-bueroservice.de/pl/</loc>
+        <lastmod>2026-04-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="de" href="https://ip-bueroservice.de/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://ip-bueroservice.de/pl/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://ip-bueroservice.de/"/>
+    </url>
+    <url>
+        <loc>https://ip-bueroservice.de/impressum/</loc>
+        <lastmod>2026-04-29</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    <url>
+        <loc>https://ip-bueroservice.de/datenschutz/</loc>
+        <lastmod>2026-04-29</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    <url>
+        <loc>https://ip-bueroservice.de/pl/impressum/</loc>
+        <lastmod>2026-04-29</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    <url>
+        <loc>https://ip-bueroservice.de/pl/polityka-prywatnosci/</loc>
+        <lastmod>2026-04-29</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+</urlset>
