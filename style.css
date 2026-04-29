@@ -1662,7 +1662,13 @@ section {
     transition: var(--transition);
 }
 
+.faq-question > span:first-child {
+    flex: 1;
+    min-width: 0;
+}
+
 .faq-question::-webkit-details-marker { display: none; }
+.faq-question::marker { display: none; content: ""; }
 
 .faq-question:hover {
     color: var(--copper);
@@ -1690,6 +1696,8 @@ section {
 .faq-icon svg {
     width: 16px;
     height: 16px;
+    display: block;
+    flex-shrink: 0;
 }
 
 .faq-answer {
